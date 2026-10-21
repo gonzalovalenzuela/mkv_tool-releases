@@ -23,6 +23,6 @@ mkv_tool ejecuta MKVToolNix como programas independientes (no enlaza con ellos).
 
 El código fuente de la versión incluida (ver `mkvtoolnix/VERSION`) está disponible en
 <https://mkvtoolnix.download/sources/> y <https://gitlab.com/mbunkus/mkvtoolnix>.
-Quien reciba esta aplicación puede pedirlo también a gonzalo@rave.cl.
+Quien reciba esta aplicación puede pedirlo también a info@mkvtool.com.
 Las librerías de sistema copiadas junto a MKVToolNix (Boost, FLAC, libebml, libmatroska, Qt Core, ICU, etc.)
 conservan sus propias licencias; consulta los paquetes de origen de tu distribución.
